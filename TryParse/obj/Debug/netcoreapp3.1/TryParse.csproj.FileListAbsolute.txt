@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Yeni qovluq (13)\TryParse\bin\Debug\netcoreapp3.1\TryParse.exe
+C:\Users\User\Desktop\Yeni qovluq (13)\TryParse\bin\Debug\netcoreapp3.1\TryParse.deps.json
+C:\Users\User\Desktop\Yeni qovluq (13)\TryParse\bin\Debug\netcoreapp3.1\TryParse.runtimeconfig.json
+C:\Users\User\Desktop\Yeni qovluq (13)\TryParse\bin\Debug\netcoreapp3.1\TryParse.runtimeconfig.dev.json
+C:\Users\User\Desktop\Yeni qovluq (13)\TryParse\bin\Debug\netcoreapp3.1\TryParse.dll
+C:\Users\User\Desktop\Yeni qovluq (13)\TryParse\bin\Debug\netcoreapp3.1\TryParse.pdb
+C:\Users\User\Desktop\Yeni qovluq (13)\TryParse\obj\Debug\netcoreapp3.1\TryParse.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Yeni qovluq (13)\TryParse\obj\Debug\netcoreapp3.1\TryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Yeni qovluq (13)\TryParse\obj\Debug\netcoreapp3.1\TryParse.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Yeni qovluq (13)\TryParse\obj\Debug\netcoreapp3.1\TryParse.AssemblyInfo.cs
+C:\Users\User\Desktop\Yeni qovluq (13)\TryParse\obj\Debug\netcoreapp3.1\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Yeni qovluq (13)\TryParse\obj\Debug\netcoreapp3.1\TryParse.dll
+C:\Users\User\Desktop\Yeni qovluq (13)\TryParse\obj\Debug\netcoreapp3.1\TryParse.pdb
+C:\Users\User\Desktop\Yeni qovluq (13)\TryParse\obj\Debug\netcoreapp3.1\TryParse.genruntimeconfig.cache
